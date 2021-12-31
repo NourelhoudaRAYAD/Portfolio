@@ -1,0 +1,208 @@
+{
+  "basic_info": {
+    "description_header": "Salut",
+    "description": "👋 Je m'appelle Nour-El Houda RAYAD et je suis étudiante en troisième année en génie informatique à l'École Mohammadia d'Ingénieurs option systèmes d'informations. Je suis actuellement à la recherche d'un stage de fin d'études dans les domaines suivants : (Conseil, Data Science ou Machine Learning).\nMotivée, adaptable, avec un esprit d'équipe, et confiante que vos clients vont bénéficier de mes compétences pour les aider à résoudre leurs défis complexes.\nMerci de votre visite. Passez une bonne journée ❤️ ",
+    "section_name": {
+      "about": "Profil",
+      "projects": "Projets",
+      "skills": "Compétences",
+      "experience": "Formation",
+      "certification": "Certification",
+      "exp": "Expérience"
+    }
+  },
+  "certification": [
+    {
+      "title": "IoT Cloud Developer - IBM Mastery Award",
+      "startDate": "Jan 2021 - Jan 2023",
+      "description": "Cette certification m'a aidé à améliorer mon expertise pour identifier, concevoir et créer des solutions IoT, à l'aide d'IBM Watson IoT. Le titulaire du badge a démontré une maîtrise avancée de sujets tels que l'architecture IoT, le cloud IoT, Node-RED, les protocoles réseau IoT, les appareils de surveillance, les statistiques de rapport, les API REST et les services analytiques. Ce cours fournit une introduction générale à l'apprentissage automatique, à l'exploration de données et à la reconnaissance de formes statistiques.",
+      "images": [
+        "images/portfolio/certif/4.jpg"
+      ],
+      "url": "https://www.credly.com/badges/c27d5068-e67b-449d-8d9a-d47be0af5055/public_url"
+    },
+    {
+      "title": "Machine Learning - (Andrew NG course) Stanford University",
+      "startDate": "Fév 2021 - Fév 2023",
+      "description": "Dans ce cours, j'ai découvert les techniques d'apprentissage automatique les plus efficaces et je me suis entraîné à les mettre en œuvre et à les faire fonctionner par moi-même. Plus important encore, j'ai appris non seulement les fondements théoriques de l'apprentissage, mais j'ai également acquis le savoir-faire pratique nécessaire pour appliquer rapidement et puissamment ces techniques à de nouveaux problèmes. Enfin, j'ai découvert certaines des meilleures pratiques de la Silicon Valley en matière d'innovation en ce qui concerne l'apprentissage automatique et l'IA.",
+      "images": [
+        "images/portfolio/certif/1.jpg"
+      ],
+      "url": "https://www.coursera.org/account/accomplishments/verify/HQV4GPJ26ZJ7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
+    },
+    {
+      "title": "Introduction to Data Science in Python - Michigan University",
+      "startDate": "Nov 2021 - Nov 2023",
+      "description": "Ce cours m'a présenté les techniques de manipulation et de nettoyage des données à l'aide de la populaire bibliothèque de science des données pandas, et l'abstraction de la série et du DataFrame en tant que structures de données centrales pour l'analyse des données, ainsi que des didacticiels sur l'utilisation de fonctions telles que groupby, merge, et tableaux croisés dynamiques efficacement. À la fin de ce cours, j'étais capable de prendre des données tabulaires, de les nettoyer, de les manipuler et d'exécuter des analyses statistiques inférentielles de base. (1er cours de la spécialisation : Applied Data Science with Python Specialization)",
+      "images": [
+        "images/portfolio/certif/2.jpg"
+      ],
+      "url": "https://coursera.org/share/cc1ec715f868fb8afd2ecc3b8d638ba9"
+    },
+    {
+      "title": "Applied Plotting, Charting & Data Representation in Python - Michigan University",
+      "startDate": "Déc 2021 - Déc 2023",
+      "description": "Ce cours m'a aidé à améliorer mes connaissances en termes de bases de la visualisation, en mettant l'accent sur les rapports et les graphiques à l'aide de la bibliothèque matplotlib. Le cours a commencé par une perspective de conception et de maîtrise de l'information, abordant ce qui fait une bonne et une mauvaise visualisation, et ce que les mesures statistiques se traduisent en termes de visualisations. Après cela, nous nous sommes concentrés sur la technologie utilisée pour faire des visualisations en python, matplotlib et présenter aux utilisateurs les meilleures pratiques lors de la création de graphiques de base et comment prendre des décisions de conception dans le cadre. Ensuite, j'ai eu la chance de voir une variété de graphiques statistiques de base m'aidant à identifier quand une méthode particulière est bonne pour un problème particulier. Le cours s'est terminé par une discussion sur d'autres formes de structuration et de visualisation des données. (2e cours de la spécialisation : Applied Data Science avec spécialisation Python)",
+      "images": [
+        "images/portfolio/certif/3.jpg"
+      ],
+      "url": "https://coursera.org/share/3806d1691056ceb8af0dca4b8e0e63d3"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Prediction des nouveaux cas de Covid-19, et Classification des risques.",
+      "startDate": "2021",
+      "description": "Le système consiste à prédire les nouveaux cas dans la semaine suivante, en plus de classer le risque quotidien de nouvelles casses par habitant, et le taux de positivité. Utilisation de cinq ensembles de données différents et application d'un modèle d'apprentissage automatique optimal.",
+      "images": [
+        "images/portfolio/covid/1.jpg",
+        "images/portfolio/covid/2.jpg"
+      ],
+      "url": "https://covid-europe.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-python-plain colored",
+          "name": "Python"
+        }
+        
+      ]
+    },
+    {
+      "title": "Système de recommandation de profils sur LinkedIn",
+      "startDate": "2021",
+      "description": "Un système mettant en avant les qualités des candidats à une offre d'emploi. Les embauchés pourront consulter un tableau de bord rapportant leurs qualités, expériences et compétences en fonction des informations du profil LinkedIn de chaque candidat, ils seront classés par ordre de mérite.",
+      "images": [
+        "images/portfolio/linkedin-reco/1.jpg",
+        "images/portfolio/linkedin-reco/2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain colored",
+          "name": "Python"
+        },
+        {
+          "class": "",
+          "name": "Qlikview"
+        },
+        {
+          "class": "",
+          "name": "BeautifulSoup"
+        },
+        {
+          "class": "",
+          "name": "Selenium"
+        },
+        {
+          "class": "devicon-jupyter-plain colored",
+          "name": "Jupyter"
+        }
+      ]
+    },
+    {
+      "title": "Detecteur des Fake News",
+      "startDate": "2021",
+      "description": "Le but de cette application est de proposer une solution qui peut être utilisée par les utilisateurs pour détecter et filtrer les sites contenant des informations fausses et trompeuses.",
+      "images": [
+        "images/portfolio/fake-news/1.jpg",
+        "images/portfolio/fake-news/2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain colored",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-jupyter-plain colored",
+          "name": "Jupyter"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Ecole Mohammadia d'Ingénieurs",
+      "title": "Étudiante 3ème Année en Génie Informatique - Option Systèmes d'Informations",
+      "years": "09.2021 - présent",
+      "mainTech": [
+      ],
+      "technologies": [
+        "Pandas",
+        "Scikit-learn",
+        "Numpy",
+        "Scipy",
+        "Surprise",
+        "Tensorflow",
+        "Keras",
+        "PyTorch",
+        "Seaborn",
+        "Matplotlib",
+        "Pyqlearning",
+        "Power BI",
+        "Tableau",
+        "Jira",
+        "GitLab"
+      ]
+    },
+    {
+      "company": "Classes préparatoires",
+      "title": "2 ans - Option Physique et Sciences de l'Ingénieur",
+      "years": "09.2017 - 06.2019",
+      "mainTech": [
+      ],
+      "technologies": [
+        "SQL",
+        "Python",
+        "C"
+      ]
+    },
+    {
+      "company": "Lycée AHMED BEN MOHAMMED ERRACHDI",
+      "title": "Bacalauréat en Sciences Physique",
+      "years": "09.2016 - 06.2017",
+      "mainTech": [
+        
+      ],
+      "technologies": [
+        
+      ]
+    }
+  ],
+  "exp": [
+    {
+      "company": "PEAQOCK FINANCIALS - Casablanca",
+      "title": "Data scientist - Développeuse",
+      "years": "07.2021 - 09.2021",
+      "mainTech": [
+        "Python",
+        "Dialogflow"
+      ],
+      "technologies": [
+        "Pandas",
+        "Scikit-learn",
+        "Numpy",
+        "Tensorflow",
+        "Keras",
+        "Seaborn",
+        "Matplotlib",
+        "GitLab",
+        "Dialgoflow",
+        "React",
+        "NodeJs"
+      ]
+    },
+    {
+      "company": "AGENCE DU BASSIN HYDRAULIQUE DARAA OUED NOUN – GUELMIM",
+      "title": "Développeuse",
+      "years": "07.2020 - 08.2020",
+      "mainTech": [
+        "VB"
+      ],
+      "technologies": [
+        "VB",
+        "Access"
+      ]
+    }
+  ]
+}
