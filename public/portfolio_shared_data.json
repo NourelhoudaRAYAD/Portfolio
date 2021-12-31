@@ -1,0 +1,74 @@
+{
+    "basic_info": {
+      "name": "Nour-El Houda RAYAD",
+      "titles": [ "Consultant", "Data Scientist", "Data Engineer", "Machine Learning Engineer"  ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/NourelhoudaRAYAD",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/nour-rayad/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "my_profile.JPG"
+    },
+    "skills": {
+      "labels": ["Machine Learning", "Deep Learning", "AI", "NLP", "Data Engineering", "Data Analysis", "Data Viz", "BI", "Web Dev.", "Mobile Dev.", "DevOps", "MLOps"],
+      "datasets": [
+        {
+          "label": "My General Interest",
+          "data": [9, 8, 8, 8, 8.5, 8, 8.5, 7.5, 6, 6, 5, 7],
+          "backgroundColor": "rgba(255, 99, 132, 0.2)",
+          "borderColor": "rgba(255, 99, 132, 1)",
+          "borderWidth": 1
+        }
+      ]
+    },
+    "skills_tech": {
+      "labels": ["SQL", "Python", "Hadoop", "R", "Javascript", "NodeJs", "J2EE", "Springboot", "VB", "C#", "React"],
+      "datasets": [
+        {
+          "label": "My Technological Interest",
+          "data": [8, 9, 8, 7, 6, 6, 5, 5, 6, 5, 5.5],
+          "backgroundColor": "rgba(255, 99, 132, 0.2)",
+          "borderColor": "rgba(255, 99, 132, 1)",
+          "borderWidth": 1
+        },
+        {
+          "label": "My Technological Skills",
+          "data": [8, 8, 7.5, 7, 8, 6.5, 5, 5, 7, 5.5, 7],
+          "backgroundColor": "rgba(137, 196, 244, 0.2)",
+          "borderColor": "rgba(1, 1, 122, 1)",
+          "borderWidth": 1
+        }
+      ]
+    },
+    "skills_data": {
+      "labels": ["Supervised L.", "Unsupervised L.", "Semi-Supervised L.", "Reinforcement L.", "Neural Networks", "NLP", "Data Cleansing", "Data Dim. Reduction", "Data Normalization", "DataViz", "SGBD"],
+      "datasets": [
+        {
+          "label": "My Interest in Data Science",
+          "data": [9, 8, 6, 7, 7, 7, 7.5, 7.5, 7.5, 8, 8],
+          "backgroundColor": "rgba(255, 99, 132, 0.2)",
+          "borderColor": "rgba(255, 99, 132, 1)",
+          "borderWidth": 1
+        }
+      ]
+    },
+    "tools_data": {
+      "labels": ["Microsoft Power BI","Tableau","Anaconda","Jupyter Notebook","VS Code","Jira","GitLab","Github", "Eclipse"],
+      "datasets": [
+        {
+          "label": "My Skills in Tools",
+          "data": [8.5, 8, 8, 9, 8.5, 9, 9, 9, 5],
+          "backgroundColor": "rgba(255, 99, 132, 0.2)",
+          "borderColor": "rgba(255, 99, 132, 1)",
+          "borderWidth": 1
+        }
+      ]
+    }
+  }
